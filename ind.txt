@@ -1,0 +1,16 @@
+Na 10
+Nb 10
+P 1000
+T 0.05
+L 30
+seed 5
+vi 1.0
+omg0 1.0
+omgz 0.316228
+g -8.43203
+s 0.5
+h 0.005
+skip 20000
+step 5000000
+den_num 400
+thread_count 10
